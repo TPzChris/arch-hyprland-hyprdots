@@ -1,0 +1,16 @@
+GitLens v14.5.2 activating in Visual Studio Code (1.85.0) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (1f013c47ecb51c7e5f5ad2f0a5ccc73b33f1226f6761b5d755f5dbe3b698a2f6|c3e55440-d326-4dbf-a85a-203eb48d8bfc1702245973362)
+To enable debug logging, set `"gitlens.outputLevel: "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2023-12-10 22:06:14.260] [GIT  ] [/home/cristi/.config/hypr] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [23ms]
+
+[2023-12-10 22:06:14.297] [GIT  ] [/home/cristi/.config/hypr] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [4ms]
+
+[2023-12-10 22:06:31.511] [GIT  ] [/home/cristi/.config/hypr/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [5ms]
+
+[2023-12-10 22:06:31.891] [GIT  ] [/home/cristi/.config/hypr/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [8ms]
+
+[2023-12-10 22:06:32.339] [GIT  ] [/home/cristi/.config/hypr/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [4ms]
+
+[2023-12-10 22:06:33.491] [GIT  ] [/home/cristi/.config/hypr/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [4ms]
+
+[2023-12-10 22:06:34.346] [GIT  ] [/home/cristi/.config/hypr/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [4ms]
+

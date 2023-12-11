@@ -1,0 +1,7 @@
+"custom/weather": {
+    "exec": "$XDG_CONFIG_HOME/waybar/get_weather.sh Berlin+Germany",
+    "return-type": "json",
+    "format": "{}",
+    "tooltip": true,
+    "interval": 3600
+},

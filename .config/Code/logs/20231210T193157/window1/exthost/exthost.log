@@ -1,0 +1,12 @@
+2023-12-10 19:31:58.522 [info] Extension host with pid 129439 started
+2023-12-10 19:31:58.522 [info] Skipping acquiring lock for /home/cristi/.config/Code/User/workspaceStorage/4f6f921e54003d04ae14edcb935a785c.
+2023-12-10 19:31:58.592 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-10 19:31:58.635 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-10 19:31:58.674 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-10 19:31:58.690 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-10 19:31:58.715 [info] Eager extensions activated
+2023-12-10 19:31:58.731 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-10 19:31:58.732 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-10 19:31:58.736 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2023-12-10 19:31:58.738 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2023-12-10 19:31:58.878 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
