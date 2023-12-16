@@ -1,8 +1,0 @@
-2023-12-11 21:31:25.432 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2023-12-11 21:31:25.719 [info] Started local extension host with pid 27024.
-2023-12-11 21:31:26.196 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
-2023-12-11 21:31:28.350 [info] [perf] Render performance baseline is 21ms
-2023-12-11 21:31:35.144 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2023-12-11 21:31:35.307 [info] Started local extension host with pid 27184.
-2023-12-11 21:31:35.599 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
-2023-12-11 21:31:37.905 [info] [perf] Render performance baseline is 17ms

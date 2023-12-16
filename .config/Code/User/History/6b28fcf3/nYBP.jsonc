@@ -1,5 +1,0 @@
-    "custom/disk": {
-        "interval": 3,
-        "format": "{free} / {used} = {total} > {percentage_free} -> {percentage_used}",
-        "path": "/"
-    },

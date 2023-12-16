@@ -1,8 +1,0 @@
-    "disk": {
-        "interval": 3,
-        "format": "{used} / {total}",
-        "format-alt": "{free} / {used} = {total}",
-        "path": "/",
-        "tooltip": true,
-        "max-length": 1000
-    },
