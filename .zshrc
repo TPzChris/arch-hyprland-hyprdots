@@ -57,10 +57,10 @@ alias pc='$aurhelper -Sc' # remove unused cache
 alias po='$aurhelper -Qtdq | $aurhelper -Rns -' # remove unused packages, also try > $aurhelper -Qqd | $aurhelper -Rsu --print -
 alias vc='code' # gui code editor
 alias f='fd --type f --hidden --exclude .git | fzf-tmux -p --reverse | xargs nvim'
+alias gitdot='/usr/bin/git --git-dir=/home/cristi/dotfiles/ --work-tree=/home/cristi'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 #Display Pokemon
 pokemon-colorscripts --no-title -r
-alias gitdot='/usr/bin/git --git-dir=/home/cristi/dotfiles/ --work-tree=/home/cristi'

@@ -49,7 +49,7 @@
     "disk": {
         "interval": 3,
         "format": " {percentage_used}%",
-        "format-alt": "{free} / {used} = {total}",
+        "format-alt": "{used}/{total}",
         "path": "/",
         "tooltip": true,
         "max-length": 1000
@@ -65,7 +65,7 @@
         //"format": "{:%I:%M %p}",
         "format": "{:%R 󰃭 %d/%m/%y}",
         // "format-alt": "{:%R 󰃭 %d·%m·%y}",
-        "tooltip-format": "<tt>{calendar}</tt>",
+        "tooltip-format": "<tt><big><big>{calendar}</big></big></tt>",
         "calendar": {
             "mode": "month",
             "mode-mon-col": 3,
