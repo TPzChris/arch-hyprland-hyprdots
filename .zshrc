@@ -62,5 +62,12 @@ alias gitdot='/usr/bin/git --git-dir=/home/cristi/dotfiles/ --work-tree=/home/cr
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-#Display Pokemon
-pokemon-colorscripts --no-title -r
+#Random bool
+random_bool=$(echo $(($RANDOM%2)))
+
+if [ "$random_bool" = "0" ]; then
+	#Display Pokemon
+	pokemon-colorscripts --no-title -r
+else
+	colorscript random
+fi
