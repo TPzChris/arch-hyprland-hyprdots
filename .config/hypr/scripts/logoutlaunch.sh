@@ -34,6 +34,11 @@ case $1 in
         export y_mgn=$(( y_mon * 25 / hypr_scale ))
         export x_hvr=$(( x_mon * 32 / hypr_scale ))
         export y_hvr=$(( y_mon * 20 / hypr_scale )) ;;
+    3)  wlColms=3
+        export x_mgn=$(( x_mon * 25 / hypr_scale ))
+        export y_mgn=$(( y_mon * 15 / hypr_scale ))
+        export x_hvr=$(( x_mon * 22 / hypr_scale ))
+        export y_hvr=$(( y_mon * 10 / hypr_scale )) ;;
 esac
 
 # scale font size

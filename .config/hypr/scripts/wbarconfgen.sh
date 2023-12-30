@@ -42,3 +42,6 @@ if [ $switch -eq 1 ] ; then
 fi
 
 $ScrDir/wbaroverwriteconfigheader.sh
+
+
+
